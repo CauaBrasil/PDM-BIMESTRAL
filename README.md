@@ -1,2 +1,5 @@
 # PDM-BIMESTRAL
-é os guri
+#Integrantes:
+- Cauã Brasil
+- Enzo corbanezi
+- Henrique Correia
