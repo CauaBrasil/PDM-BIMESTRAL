@@ -94,6 +94,7 @@ const styles = StyleSheet.create({
   },
   backgroundImage: {
     flex: 1,
+    marginTop: 30,
     resizeMode: 'cover',
     justifyContent: 'center',
   },
